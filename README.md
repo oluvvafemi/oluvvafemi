@@ -1,5 +1,5 @@
 
-### Hello there 👋
+<!--### Hello there 👋 -->
 
 <!--
 **oluvvafemi/oluvvafemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://render.githubusercontent.com/render/math?math=\hat{y} = x^T\beta">
+<img src="https://render.githubusercontent.com/render/math?math=\hat{y} = x^T\beta"  width="500" height="600">
 
