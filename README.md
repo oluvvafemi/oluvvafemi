@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://render.githubusercontent.com/render/math?math=\hat{y} = x^T\beta">
-$$\hat{y} = x^T\beta$$
+
