@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://render.githubusercontent.com/render/math?math=\hat{y} = x^T\beta"  width="250" height="300">
+<img src="https://render.githubusercontent.com/render/math?math=\hat{y} = x^T\beta"  width="250" height="300" class="center">
 
